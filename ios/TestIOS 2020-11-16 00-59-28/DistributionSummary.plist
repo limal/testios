@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TestIOS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>38BAFCA14742DC506D011758BBDCC13407964B9A</string>
+				<key>dateExpires</key>
+				<string>15/11/2021</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MRDX2LGFV9.co.wolnik.testios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MRDX2LGFV9</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>MRDX2LGFV9.co.wolnik.testios</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TestIOS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f295bce3-a8ec-44f8-9a6a-3275d92b730c</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: co.wolnik.testios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MRDX2LGFV9</string>
+				<key>name</key>
+				<string>Wolnik Ltd</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
